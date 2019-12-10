@@ -29,7 +29,7 @@
 
 <version>2.2</version> 
 <configuration> 
-<url>http://localhost:8080/manager/text</url> 
+<url>http://localhost:8090/manager/text</url> 
 <server>apache-tomcat</server> 
 <path>/my-webapp</path> 
 </configuration> 
